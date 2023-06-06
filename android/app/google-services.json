@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347758670583",
+    "project_id": "android-pakar",
+    "storage_bucket": "android-pakar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347758670583:android:4d0b55b94900382e83d9f2",
+        "android_client_info": {
+          "package_name": "com.example.pakar_hati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347758670583-pja3rj9aborj8rdnumk6cc297cqkt9b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pakar_hati",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "347758670583-en0mbnh6s497o0so1jaba5bqk64bkp73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgyw_VswIw_YAq2tgraG_jfKq_IsEi1vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347758670583-en0mbnh6s497o0so1jaba5bqk64bkp73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
